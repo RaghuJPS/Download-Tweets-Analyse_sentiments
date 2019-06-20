@@ -1,4 +1,4 @@
-# Download-Tweets-Analyse_sentiments
+# Download-Tweets-Analyze_sentiments
 Download Tweets using Twitter Hastags or exact Keywords and Analyse the Sentiments
 TWEEPY-TextBlob-MATPLOT LIB
 
