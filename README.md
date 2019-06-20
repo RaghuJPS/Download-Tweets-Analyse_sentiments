@@ -3,8 +3,8 @@ Download Tweets using Twitter Hastags or exact Keywords and Analyse the Sentimen
 TWEEPY-TextBlob-MATPLOT LIB
 
 Give geniune keywords like ICC
-Works great on numbers
-Can download 1000s of tweets in 2 sec
+Works great on numbers but not general numbers --In many cases it gives neutral classification if there is nothing special happening
+It can download and analyse 1000 of tweets in few seconds
 
 ***** I have masked the authorisation keys and secret tokens*************
 register and get your credentials from: apps.twitter.com
